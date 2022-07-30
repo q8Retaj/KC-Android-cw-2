@@ -8,5 +8,7 @@ public class Main
     
   System.out.println("you can join the train");
 
-   }else if (hight<160)
+   }else  (hight<160)
    
+
+System.out.println("you can't join the train");
